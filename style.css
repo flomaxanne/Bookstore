@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 15, 2016, 7:44:50 PM
+    Author     : Florence Pereira 
+*/
+
+.navbar-default{
+    background:transparent;
+    font-family:initial;
+    font-size: 16px;
+    position: relative;
+    font-color:white;
+   
+}
+
+#homediv{
+    margin-top: -19px;
+    background: url(images/oldbookpage.jpg)no-repeat center fixed;
+    background-size: 100%;
+}
+
+#registrationdiv{
+    
+    margin-top: -19px;
+    background:url(images/reg.jpg)no-repeat center fixed; 
+    background-size:100%;
+}
+
+#logindiv{
+     margin-top: -19px;
+    background:url(images/login.png)no-repeat center fixed; 
+    background-size:cover;
+}
+#contactusdiv{
+     margin-top: -19px;
+    background:url(images/contactus.jpg)no-repeat center fixed; 
+    background-size:cover;
+}
+
+
+#admindiv{
+     margin-top: -19px;
+    background:url(images/admin.jpg)no-repeat center fixed;
+    background-size:cover;
+    
+}
+
+
+#footer{
+    background:url(images/ftr.jpg)no-repeat center fixed; 
+    border-top-style:double;
+    background-size: cover;
+    color:white;
+    text-align: center;
+    font-family:Georgia;
+    font-size: 16px;
+    position:absolute fixed;
+   float:bottom;
+    bottom:0;
+    
+
+}
+
